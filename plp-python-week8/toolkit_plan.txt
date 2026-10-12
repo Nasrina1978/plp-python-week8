@@ -1,0 +1,37 @@
+Personal Mini-Toolkit - Plan
+
+Author: NASRO ( Nasrina1978) - Week 8 Final Project
+
+1. TOOLS CHOSEN (4 tools):
+
+Tool 1: To-Do List Manager
+- What it does: Lets user add, view, and remove tasks. The list grows and shrinks while program runs.
+
+Tool 2: Number Guessing Game  
+- What it does: Computer picks random number 1-50, user guesses until correct with hints.
+
+Tool 3: Simple Calculator
+- What it does: Takes two numbers and an operator (+ - * /) and shows result.
+
+Tool 4: Countdown Timer
+- What it does: Counts down from user-given seconds to 0.
+
+2. EXACT MENU TEXT:
+
+  WELCOME TO ABDUL'S MINI-TOOLKIT
+
+1. To-Do List Manager
+2. Number Guessing Game
+3. Simple Calculator
+4. Countdown Timer
+5. Quit
+
+Enter your choice (1-5): 
+
+3. CONCEPTS PER TOOL:
+
+Tool 1 - To-Do List: List tasks=[] with append/pop, Loop for display, Conditional if/elif, f-string
+Tool 2 - Guessing Game: Loop while until correct, Conditional if/elif/else, random
+Tool 3 - Calculator: Conditional if/elif/else for operator, f-string, try/except
+Tool 4 - Countdown: Loop for countdown, Conditional check positive, f-string
+Overall Menu: Loop while True until Quit, Conditional if/elif/else routing + else for invalid
